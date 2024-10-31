@@ -59,7 +59,7 @@ In doctor mode, access to patient data and daily appointments is available witho
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/mips-clinical-system.git
+   git clone https://github.com/AbdelrahmanAtef01/Clinic-management-system-in-Assembly.git
    ```
 
 2. Ensure you have a MIPS Assembly simulator installed (such as **MARS** or **SPIM**).
